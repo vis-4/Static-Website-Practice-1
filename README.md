@@ -5,7 +5,7 @@ This is a Basic web-page called Coding Cover Page which is a very basic page as 
 This is a simple web design project that displays a coding-themed quote with a visually appealing background.
 
 
-## Link for my Output: 
+## Live Demo: 
 https://codpra1.ccbp.tech/
 
 ## Technologies Used:
