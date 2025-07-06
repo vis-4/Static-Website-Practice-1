@@ -24,3 +24,8 @@ The page features:
 - Fully responsive design
 - Centered content with transparent background box
 - Clean and minimal code structure
+- 
+## What I Learned
+- How to structure a static webpage
+- Use of Bootstrap Flex utilities for layout
+- Applying background images and styling with external CSS
